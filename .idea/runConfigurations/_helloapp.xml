@@ -1,0 +1,28 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="/helloapp" type="com.poratu.idea.plugins.tomcat">
+    <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+    <predefined_log_file enabled="true" id="Tomcat Access Log" />
+    <predefined_log_file id="Tomcat Catalina Log" />
+    <predefined_log_file id="Tomcat Manager Log" />
+    <predefined_log_file id="Tomcat Host Manager Log" />
+    <option name="catalinaBase" value="C:\Users\ASUS\OneDrive\Desktop\Java-Basics\servlet\servlet" />
+    <option name="contextPath" value="/" />
+    <option name="docBase" value="C:\Users\ASUS\OneDrive\Desktop\Java-Basics\servlet\servlet" />
+    <option name="envOptions">
+      <map />
+    </option>
+    <option name="extraClassPath" value="" />
+    <option name="tomcatInfo">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/10.1.36 (4)" />
+        <option name="path" value="$USER_HOME$/apache-tomcat-10.1.36-windows-x64/apache-tomcat-10.1.36" />
+        <option name="version" value="10.1.36.0" />
+      </TomcatInfo>
+    </option>
+    <option name="vmOptions" value="-DENV=DEV" />
+    <module name="servlet" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
